@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码虫博客</title>
+  
+  <subtitle>我是一只爱吃代码的码虫</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-15T15:45:16.605Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>HeheJie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello,hexo</title>
+    <link href="http://yoursite.com/2020/08/15/hello-hexo/"/>
+    <id>http://yoursite.com/2020/08/15/hello-hexo/</id>
+    <published>2020-08-15T15:45:16.000Z</published>
+    <updated>2020-08-15T15:45:16.605Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/08/15/hello-world/"/>
+    <id>http://yoursite.com/2020/08/15/hello-world/</id>
+    <published>2020-08-15T06:52:08.149Z</published>
+    <updated>2020-08-15T06:52:08.149Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
